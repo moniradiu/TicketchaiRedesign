@@ -1,0 +1,12 @@
+.custom_table2{background: #fff;}
+.cart_tbl{
+    background: none !important;
+    border: none !important;
+}
+.cart_tbl td,th 
+{
+  text-align: center;
+  border: none !important;
+  padding: 0px;
+   
+}
